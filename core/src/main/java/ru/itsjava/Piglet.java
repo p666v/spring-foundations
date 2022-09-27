@@ -1,2 +1,9 @@
-package ru.itsjava;public class Piglet {
+package ru.itsjava;
+
+public class Piglet implements Animal{
+
+    @Override
+    public void say() {
+        System.out.println("Hru-Hru");
+    }
 }

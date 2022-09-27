@@ -1,4 +1,6 @@
 package ru.itsjava;
 
-public interface Piglet {
+public interface Animal {
+
+    void say();
 }
