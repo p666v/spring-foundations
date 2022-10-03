@@ -17,6 +17,7 @@
         <module>coffee-shop-java-based</module>
         <module>core-annotation-based</module>
         <module>programmer-app-annotation-based-config</module>
+        <module>coffee-shop-annotation-based</module>
     </modules>
 
     <properties>
